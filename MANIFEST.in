@@ -2,3 +2,6 @@ include *.txt
 
 recursive-include docs *
 recursive-include src *
+
+global-exclude *py[cod]
+global-exclude *~ .*.s??
