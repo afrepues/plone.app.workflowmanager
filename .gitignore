@@ -1,0 +1,19 @@
+# Editing artifacts
+*~
+.*.s??
+
+# Python artifacts
+*.py[cod]
+
+# Distutils/setuptools/etc.
+/dist
+/build
+*.egg
+*.egg-info
+
+# Buildout generated artifacts
+/.*.cfg
+/bin
+/develop-eggs
+/parts
+/var
